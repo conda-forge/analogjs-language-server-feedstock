@@ -4,7 +4,7 @@
 
 [project]
 name = "analogjs-language-server-feedstock"
-version = "3.45.0"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/analogjs-language-server-feedstock"
 authors = ["@conda-forge/analogjs-language-server"]
 channels = ["conda-forge"]
