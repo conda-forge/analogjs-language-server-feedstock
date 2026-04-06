@@ -1,5 +1,5 @@
 context:
-  version: "0.1.7"
+  version: "0.2.4"
 
 package:
   name: analogjs-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@analogjs/language-server/-/language-server-${{ version }}.tgz
-  sha256: 2d9fac241de9865dccb64023b99c3f1c519a047d4cb50ec675a15c8fca1af45f
+  sha256: d27f1e3f087c39ac0e947ec47cee7bc80196fc2eda90c03fea668378d9bd4099
 
 build:
   number: 0
